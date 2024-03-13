@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soat", "Soat\Soat.csproj", "{2FC9247B-EC45-4160-816E-A568A40E0CE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FC9247B-EC45-4160-816E-A568A40E0CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC9247B-EC45-4160-816E-A568A40E0CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC9247B-EC45-4160-816E-A568A40E0CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC9247B-EC45-4160-816E-A568A40E0CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C4236AB-9C3D-43F0-BDFC-440C04B2E7AB}
+	EndGlobalSection
+EndGlobal
